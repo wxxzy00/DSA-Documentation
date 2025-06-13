@@ -9,3 +9,10 @@ This is where I started my Portfolio building while taking my Data Analysis cour
 ### Data Source
 ##### The data used in this project was collected from an E-commerce organization based here in the city of Port-Harcourt
 
+### Tools Used
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+    - For Data Collection
+    - For Data Cleaning
+- SQL [Download Here](https://azure.microsoft.com)
+    - For Querying
+    - For Analysis
