@@ -13,6 +13,16 @@ This is where I started my Portfolio building while taking my Data Analysis cour
 - Microsoft Excel [Download Here](https://www.microsoft.com)
     - For Data Collection
     - For Data Cleaning
+
+      
 - SQL [Download Here](https://azure.microsoft.com)
     - For Querying
     - For Analysis
+
+```
+SQL Query
+
+SELECT Name, Age, Class
+WHERE Age > 18
+```
+
